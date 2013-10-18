@@ -10,7 +10,7 @@
 - [ ] JRuby
 - [ ] RubyMotion
 - [ ] Emacs
-- [X] Vi/Vim
+- [ ] Vi/Vim
 - [ ] Zsh
 - [ ] Screen/Tmux
 - [ ] Heroku
